@@ -1,5 +1,5 @@
-variable "access_key" { default = "AKIA26WVFCCKSQW4DQVM" }
-variable "secret_key" { default = "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" }
+variable "access_key" { default = "" }
+variable "secret_key" { default = "" }
 variable "region" { default = "ap-south-1" }
 variable "vpc_cidr" { default = "10.0.0.0/16" }
 variable "subnet_one_cidr" { default = "10.0.1.0/24" }
